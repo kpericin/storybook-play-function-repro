@@ -1,8 +1,6 @@
 /** @type { import('@storybook/react-vite').StorybookConfig } */
 const config = {
-  // stories: ["../src/**/*.mdx", "../src/**/*.stories.@(js|jsx|ts|tsx)"],
-  stories: ["../src/**/RhfNativeInteraction.stories.@(js|jsx|ts|tsx)"],
-  // stories: ["../src/**/NativeInteraction.stories.@(js|jsx|ts|tsx)", "../src/**/RhfNativeInteraction.stories.@(js|jsx|ts|tsx)"],
+  stories: ["../src/**/*.mdx", "../src/**/*.stories.@(js|jsx|ts|tsx)"],
   staticDirs: ["../public"],
   addons: [
     "@storybook/addon-links",
