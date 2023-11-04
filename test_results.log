@@ -1,0 +1,1386 @@
+Running test 1
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.7s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 2
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 3
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 4
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 5
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.7s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 6
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.7s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 7
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.7s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 8
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 9
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 10
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 11
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.7s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 12
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 13
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 14
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 15
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 16
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 17
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 18
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 19
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.7s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 20
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.7s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 21
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 22
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.7s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 23
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 24
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 25
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.7s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 26
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.7s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 27
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 28
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 29
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.7s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 30
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 31
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 32
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 33
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 34
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.7s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 35
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 36
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 37
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 38
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 39
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.7s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 40
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 41
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 42
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.7s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 43
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 44
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 45
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.7s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 46
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 47
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 48
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 49
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 50
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 51
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 52
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 53
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 54
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 55
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.7s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 56
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.7s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 57
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 58
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 59
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 60
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.7s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 61
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 62
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 63
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.7s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 64
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 65
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 66
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.7s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 67
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 68
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.7s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 69
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 70
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 71
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 72
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 73
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 74
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 75
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 76
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 77
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 78
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 79
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 80
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 81
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.7s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 82
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.7s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 83
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 84
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 85
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 86
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+[1A[2K[32m  1 passed[39m[2m (1.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  pnpm exec playwright show-report[39m
+[36m[39m
+-------------------------
+Running test 87
+
+> intro-storybook-react-template@0.2.0 test /Users/katja/repositories/interaction-tests-repro
+> pnpm playwright test
+
+
+[2mRunning [22m1[2m test using [22m1[2m worker[22m
+
+[1A[2K[1/1] [chromium] › example.spec.js:15:1 › storybook story
+ ELIFECYCLE  Test failed. See above for more details.
