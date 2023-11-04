@@ -7,7 +7,7 @@ const ToastContainer = () => {
     <ToastifyContainer
       theme="light"
       closeOnClick
-      position={toast.POSITION.TOP_RIGHT}
+      position={toast.POSITION.BOTTOM_LEFT}
       autoClose={5000}
     />
   );
