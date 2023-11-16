@@ -1,6 +1,6 @@
 import SelectorForm from "./NativeRhfForm";
 import { expect } from "@storybook/jest";
-import { within, userEvent } from "@storybook/testing-library";
+import { within, userEvent } from "@storybook/test";
 
 export default {
   title: 'NativeRhfInteraction',
