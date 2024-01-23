@@ -13,6 +13,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
+    "@tanstack/react-form": "0.13.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hook-form": "7.49.3",
